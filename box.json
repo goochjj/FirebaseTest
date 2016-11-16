@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "JavaLoader":"github:markmandel/JavaLoader"
+    },
+    "installPaths":{
+        "JavaLoader":"JavaLoader"
+    }
+}
